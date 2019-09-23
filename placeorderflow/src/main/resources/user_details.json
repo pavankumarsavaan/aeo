@@ -1,0 +1,28 @@
+{
+  "shipping_address": {
+    "first_name":"Pavankumat",
+    "last_name": "Savaan",
+    "street_address": "4261 stevenson blvd",
+    "address_line2": "apt 123",
+    "city": "Fremont",
+    "state": "CA",
+    "zip_code": "94538"
+  },
+  "valid_credit_card": {
+    "card_number": "4023345690898976",
+    "exp_date": "1220",
+    "scc": "234",
+    "phone": "415-369-7091"
+  },
+  "invalid_credit_card": {
+    "card_number": "9122422342342342",
+    "exp_date": "1220",
+    "scc": "234",
+    "phone": "415-369-7091"
+  },
+  "contact_email":"pavankumarsavaan@gmail.com",
+  "gift_card": {
+    "card_number": "1234567890123456789";
+    "pin": 1234
+  }
+}
